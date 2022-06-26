@@ -42,11 +42,11 @@ testem.log
 Thumbs.db
 
 # mine
-.vscode
-.browserlistrc
-.editorconfig
-karma.conf.js
-package-lock.json
-tsconfig.app.json
-tsconfig.json
-tsconfig.spec.json
+# .vscode
+# .browserlistrc
+# .editorconfig
+# karma.conf.js
+# package-lock.json
+# tsconfig.app.json
+# tsconfig.json
+# tsconfig.spec.json
